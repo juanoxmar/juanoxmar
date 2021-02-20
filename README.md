@@ -1,4 +1,5 @@
-# Hi, I am Juan Oxmar 👋🏽
+![Logo](/assets/ghLogo.png)
+---
 I am a former mechanical engineer turned software engineer. Feel free to contact me through:
 
 [![Linkedin Badge](https://img.shields.io/badge/-juanoxmar-black?style=flat-square&logo=Linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/juanoxmar/)](https://www.linkedin.com/in/juanoxmar/)
