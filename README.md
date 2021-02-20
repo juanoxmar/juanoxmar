@@ -17,8 +17,7 @@
 |                                                                                                 |                                                                                                     |                                                                                                                  | ![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=Webpack)                   |
 |                                                                                                 |                                                                                                     |                                                                                                                  | ![Amazon AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws&logoColor=FF9900) |
 
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)
@@ -41,4 +40,4 @@
 ![CircleCI](https://img.shields.io/badge/-CircleCI-black?style=flat-square&logo=CircleCI)
 ![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=Webpack)
 ![Amazon AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws&logoColor=FF9900)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis) -->
