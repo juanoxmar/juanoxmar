@@ -1,25 +1,25 @@
 ![Logo](/assets/ghLogo.png)
 
-### A former professional mechanical engineer turned software engineer.
+#### A former professional mechanical engineer turned software engineer.
 
-### Contact
+#### Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-juanoxmar-black?style=flat-square&logo=Linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/juanoxmar/)](https://www.linkedin.com/in/juanoxmar/)
 [![Gmail Badge](https://img.shields.io/badge/-joxmar.ramirez@gmail.com-black?style=flat-square&logo=Gmail&link=mailto:joxmar.ramirez@gmail.com)](mailto:joxmar.ramirez@gmail.com)
 
-### Languages
+#### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)
 
-### Front End
+#### Front End
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux&logoColor=764ABC)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo-black?style=flat-square&logo=apollo-graphql)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 
-### Back End
+#### Back End
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql&logoColor=E10098)
@@ -28,7 +28,7 @@
 ![NGINX](https://img.shields.io/badge/-NGINX-black?style=flat-square&logo=NGINX)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 
-### Dev Tools
+#### Dev Tools
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Auth0](https://img.shields.io/badge/-Auth0-black?style=flat-square&logo=Auth0)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=Jest&logoColor=C21325)
